@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "324845833473",
+    "project_id": "tetote-37603",
+    "storage_bucket": "tetote-37603.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:324845833473:android:69011b89f1c5674b225f00",
+        "android_client_info": {
+          "package_name": "com.example.tetote"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIxQFnPNcHSCuA9Z54fJPXnvljzx-FdXU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:324845833473:android:7931de037c8a9b32225f00",
+        "android_client_info": {
+          "package_name": "com.mycompany.tetote"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIxQFnPNcHSCuA9Z54fJPXnvljzx-FdXU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
